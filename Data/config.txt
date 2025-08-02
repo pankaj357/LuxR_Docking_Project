@@ -1,0 +1,14 @@
+receptor = luxr_clean.pdbqt
+ligand = ahl.pdbqt
+
+center_x = -3.793
+center_y = -3.755
+center_z = 15.901
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+out = docked_luxr_ahl.pdbqt
+
+log = vina_log.txt
