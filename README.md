@@ -8,7 +8,10 @@ Affiliation: ICAR - Indian Agricultural Research Institute, New Delhi, India
 Website: [https://www.iari.res.in](https://www.iari.res.in)
 
 ---
+## Description
+Note: The manuscript based on this work is currently being finalized and has not yet been submitted. This repository is made public for transparency and reproducibility.
 
+---
 ## 🧬 Project Summary
 
 This study investigates the interaction of the LuxR quorum-sensing transcription factor with **Octylbenzene**, a non-canonical, hydrophobic compound. The goal is to evaluate its potential to mimic natural acyl-homoserine lactones (AHLs) and disrupt bacterial quorum sensing.
