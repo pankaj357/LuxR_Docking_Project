@@ -9,7 +9,7 @@ Website: [https://www.iari.res.in](https://www.iari.res.in)
 
 ---
 ## Description
-Note: The manuscript based on this work is currently being finalized and has not yet been submitted. This repository is made public for transparency and reproducibility.
+Note: The manuscript based on this work has been submitted and it is under (peer review). This repository is made public for transparency and reproducibility.
 
 ---
 ## 🧬 Project Summary
