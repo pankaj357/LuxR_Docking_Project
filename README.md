@@ -104,11 +104,8 @@ To replicate or build upon this work:
 ---
 
 ## 🔗 Data Access and Citation
-
-This repository provides full access to data and visual assets for transparency and reproducibility.  
-If used in your research or presentations, please cite as:
-
-> Pankaj & Srishti Singh, *Molecular Docking of LuxR Protein with Octylbenzene*, submitted to **Bioinformation**, 2025.
+Manuscript submitted to peer-reviewed journal (under review).
+DO NOT cite until formally published.
 
 📧 Contact:
 - *Pankaj*: ft.pank@gmail.com  
@@ -120,3 +117,5 @@ If used in your research or presentations, please cite as:
 
 This repository is distributed under the [MIT License](https://opensource.org/licenses/MIT).  
 Free for academic and research use.
+🔒 **Note**: The code and data are currently under embargo until formal publication of the associated manuscript.  
+Please contact the corresponding author for access prior to publication.
